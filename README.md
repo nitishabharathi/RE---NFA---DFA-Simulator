@@ -1,2 +1,2 @@
 # RE---NFA---DFA-Simulator
-A  c++ program to construct NFA, DFA, and minimized DFA from a given regular expression.
+A  c++ program to construct NFA and DFA from a given regular expression.
